@@ -1,0 +1,1 @@
+LLM by [[MosaicML]]. Release blog post [here](https://www.mosaicml.com/blog/mpt-7b).

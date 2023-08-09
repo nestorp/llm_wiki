@@ -1,0 +1,3 @@
+Google AI, established in 2017, is a specialised division within Google, dedicated to advancements in AI. A significant organisational change occurred in 2023 when Google AI underwent a reorganisation. This initiative elevated Jeff Dean, the head of Google AI, to the role of chief scientist at Google. A notable aspect of this reorganisation was the merger of Google Brain and DeepMind, a UK-based AI company acquired by Google in 2014. Prior to this merger, DeepMind operated autonomously from Google's core research activities.
+
+Google AI has developed a conversational generative artificial intelligence chatbot named [[Bard]].

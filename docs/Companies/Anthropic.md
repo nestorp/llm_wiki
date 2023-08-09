@@ -1,0 +1,7 @@
+Anthropic PBC, is an AI startup established with a primary focus on the development of general AI systems and language models. The company was founded in 2021 by former senior members of [[OpenAI]], including siblings Daniela Amodei and Dario Amodei. The latter had previously held the position of Vice President of Research at [[OpenAI]]. The establishment of Anthropic was influenced by directional differences with [[OpenAI]], particularly concerning [[OpenAI]]'s collaborations with Microsoft in 2019.
+
+A significant product of Anthropic's research and development efforts is the AI chatbot named [[Claude]]. Drawing from the expertise of researchers who had previously been involved in the development of [[OpenAI]]'s [[GPT-2]] and [[GPT-3]] models, [[Claude]] was designed to function through a messaging interface. Users can pose questions or requests to [[Claude]] and receive detailed and pertinent responses. 
+
+[[Claude]] was initially made available to a select group through a Slack integration during its beta phase. However, it has since been made accessible to a broader audience via its dedicated website, [claude.ai](https://www.claude.ai)
+
+In July 2023, Anthropic launched [[Claude 2]], expanding its availability to both the US and UK markets. During the development of this iteration, safety was emphasised, leading to Anthropic's characterisation of the model as "Constitutional AI".

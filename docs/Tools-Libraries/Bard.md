@@ -1,0 +1,1 @@
+Launched in March 2023, Bard is a chatbot developed by [[Google AI]]. It was initially based on the [[LaMDA]] family LLMs and later incorporated the [[PaLM]] LLM.

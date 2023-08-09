@@ -1,0 +1,6 @@
+OpenAI is an AI research laboratory that encompasses both a non-profit entity, OpenAI, Inc., and its for-profit subsidiary, OpenAI, L.P. Established on December 10, 2015, OpenAI's mission revolves around the creation of "safe and beneficial" artificial general intelligence (AGI), which they define as "highly autonomous systems that outperform humans at most economically valuable work."
+
+OpenAI has developed several AI systems and models, including:
+
+- [[ChatGPT]]: Launched on November 30, 2022, ChatGPT is a large language model-based chatbot. It enables users to steer conversations in terms of length, format, style, detail, and language. Built on [[GPT-3.5]] and [[Models/GPT-4|GPT-4]] ChatGPT has been fine-tuned for conversational applications. By January 2023, it had amassed over 100 million users.
+- [[OpenAI Codex]]: This AI model interprets natural language and produces code. It powers GitHub Copilot, a programming autocompletion tool. Codex is a descendant of OpenAI's [[GPT-3]] model, tailored for programming applications.

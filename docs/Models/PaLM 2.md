@@ -1,0 +1,1 @@
+LLM released by [[Google AI]]. Details [here](https://ai.google/discover/palm2/). Release blog post [here](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/)
